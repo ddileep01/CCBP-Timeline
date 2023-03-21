@@ -1,4 +1,3 @@
-/* Write your CSS here */
 import styled from 'styled-components/macro'
 
 export const TimelineContainer = styled.div`
